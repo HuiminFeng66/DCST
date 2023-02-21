@@ -28,4 +28,4 @@ DCST: Sparse Dictionary Coding Based Compression of Multivariate Time Series Usi
 - Directly run dcst.py
 
 ### Results
-All the results including the compressed data, runtime, accuracy error, and the compression ratios will be add to 'results/{dataset_name}.txt' file. The results of the baseline TRISTAn and CORAD weill be also added.
+All the results including the compressed data, runtime, accuracy error, and the compression ratios will be add to 'results/{dataset_name}.txt' file. The results of the baseline TRISTAN and CORAD weill be also added.
